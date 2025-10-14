@@ -14,4 +14,5 @@ for (let fruit of a) {
 
 for (let fruit in count) {
     console.log(`${fruit}=${count[fruit]}`);
+    let a="hello bala welcome to javascript";
 }
